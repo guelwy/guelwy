@@ -71,10 +71,10 @@
 <br/>
 
 <!-- Gráfico Visual de Atividade/Commits -->
+<!-- Gráfico Visual de Atividades em SVG (Servidor dedicado sem bloqueio) -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guelwy&theme=react-dark&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guelwy&theme=dracula&hide_border=true&area=true" width="100%" />
 </div>
-
 ---
 
 <div align="center">

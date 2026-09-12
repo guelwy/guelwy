@@ -47,16 +47,24 @@
 
 ---
 
-
 ### 📈 Estatísticas do GitHub
 
 <div align="center">
 
-  <!-- Estatísticas Gerais -->
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=guelwy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <!-- Servidor 1: Estatísticas Gerais (API Alternativa de Alta Disponibilidade) -->
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=guelwy&show_icons=true&theme=dracula&include_all_commits=true" />
 
-  <!-- Linguagens Mais Usadas -->
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guelwy&layout=compact&theme=dracula&hide_border=true" />
+  <!-- Servidor 2: Linguagens Mais Usadas -->
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=guelwy&layout=compact&theme=dracula" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  <!-- Gráfico de Sequência / Streak (Mais estável que o gráfico de linhas) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guelwy&theme=dracula&hide_border=true" width="90%" />
 
 </div>
 

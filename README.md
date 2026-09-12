@@ -70,10 +70,9 @@
 
 <br/>
 
-<!-- Gráfico Visual de Atividade/Commits -->
-<!-- Gráfico Visual de Atividades em SVG (Servidor dedicado sem bloqueio) -->
+<!-- Animação da Cobrinha de Commits -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guelwy&theme=dracula&hide_border=true&area=true" width="100%" />
+  <img src="https://raw.githubusercontent.com/guelwy/guelwy/output/github-contribution-grid-snake.svg" width="100%" alt="Snake animation" />
 </div>
 ---
 

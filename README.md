@@ -51,30 +51,18 @@
 
 <div align="center">
 
-  <!-- Servidor 1: Estatísticas Gerais (API Alternativa de Alta Disponibilidade) -->
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=guelwy&show_icons=true&theme=dracula&include_all_commits=true" />
+  <!-- Estatísticas usando CDN/Proxy alternativo -->
+  <img height="160em" src="https://github-readme-stats-fast.vercel.app/api?username=guelwy&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
 
-  <!-- Servidor 2: Linguagens Mais Usadas -->
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=guelwy&layout=compact&theme=dracula" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-  <!-- Gráfico de Sequência / Streak (Mais estável que o gráfico de linhas) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guelwy&theme=dracula&hide_border=true" width="90%" />
+  <!-- Linguagens com CDN rápido -->
+  <img height="160em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=guelwy&layout=compact&theme=dracula&hide_border=true" />
 
 </div>
 
 <br/>
 
-<!-- Animação da Cobrinha de Commits -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/guelwy/guelwy/output/github-contribution-grid-snake.svg" width="100%" alt="Snake animation" />
+
 </div>
----
 
 <div align="center">
   <sub>Desenvolvido por <a href="https://github.com/guelwy">Miguel Menezes</a></sub>

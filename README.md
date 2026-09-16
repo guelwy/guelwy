@@ -1,69 +1,51 @@
 <div align="center">
 
-  <h1>👋 Olá, eu sou o Miguel Menezes (@guelwy)</h1>
-  
-  <h3>👨‍💻 Desenvolvedor | Apaixonado por Tecnologia & Código Limpo</h3>
+# 👨‍💻 Miguel Menezes
 
-  <p>
-    Transformando ideias em código funcional, explorando o ecossistema Web e desenvolvimento Backend.
-  </p>
+### `@guelwy`
 
-  <!-- Badges de Contato e Redes Sociais -->
-  <p align="center">
-    <a href="https://linkedin.com/in/miguel-menezes-774521380/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:seu-miguelm9247@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-  </p>
+**Estudante de Programação • Desenvolvedor em formação • Java & Python**
+
+[![GitHub](https://img.shields.io/badge/GitHub-guelwy-181717?style=for-the-badge&logo=github)](https://github.com/guelwy)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Mig--Menezes-000000?style=for-the-badge&logo=vercel)](https://mig-menezes.vercel.app/)
+[![Python](https://img.shields.io/badge/Python-Estudando-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/Java-Estudando-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=180&section=header&text=Guelwy&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=65"/>
 
 </div>
 
 ---
 
-### 🛠️ Tecnologias & Habilidades
+## 🧑‍💻 Sobre mim
 
-**Front-End**
-<br/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+Olá! Eu sou **Miguel Menezes**, conhecido no GitHub como **Guelwy**.
 
+Sou estudante de programação e estou construindo minha trajetória na área de desenvolvimento de software através de estudos, projetos próprios e muita prática.
 
-<br/>
+Meu principal objetivo é transformar conhecimento teórico em projetos reais, entendendo não apenas **como escrever código**, mas também **por que determinada solução funciona**.
 
-**Back-End & Linguagens**
-<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+Atualmente estou direcionando meus estudos para:
 
-<br/>
+- 💻 Desenvolvimento de software
+- ☕ Java
+- 🐍 Python
+- 🧠 Lógica de programação
+- 🗂️ Git e GitHub
+- 🏗️ Engenharia de Software
 
-**Ferramentas & Workflow**
-<br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+Gosto de aprender colocando a mão no código. Por isso, este perfil funciona como um registro da minha evolução, mostrando projetos, experimentos e tecnologias que venho estudando ao longo do caminho.
 
 ---
 
-### 📈 Estatísticas do GitHub
+## `> whoami`
 
-<div align="center">
-
-  <!-- Estatísticas usando CDN/Proxy alternativo -->
-  <img height="160em" src="https://github-readme-stats-fast.vercel.app/api?username=guelwy&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
-
-  <!-- Linguagens com CDN rápido -->
-  <img height="160em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=guelwy&layout=compact&theme=dracula&hide_border=true" />
-
-</div>
-
-<br/>
-
-
-</div>
-
-<div align="center">
-  <sub>Desenvolvido por <a href="https://github.com/guelwy">Miguel Menezes</a></sub>
-</div>
+```text
+Nome            : Miguel Menezes
+Username        : guelwy
+Perfil          : Estudante de Programação
+Foco            : Desenvolvimento de Software
+Linguagens      : Java, Python, HTML & CSS
+Interesses      : Software Engineering & Lógica
+Ferramentas     : Git, GitHub, VS Code, Eclipse, Vercel
+Status          : Aprendendo, construindo e evoluindo
